@@ -1,9 +1,6 @@
 # lab_class16
 event driven programs
 
-# lab_class13
-OAuth Token Bearer
-
 # LAB - 
 
 ## Project Name
@@ -15,7 +12,7 @@ OAuth Token Bearer
 mongodb://localhost:27017/
 
 ### Common npm Scripts
- "lint": "eslint \"**/*.js\"",  
+ "lint": "eslint "",  
    "start": "node index.js",  
    "test": "jest --verbose --coverage",  
    "test-watch": "jest --watchAll --verbose --coverage",  
